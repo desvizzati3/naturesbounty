@@ -1,0 +1,247 @@
+Log created: 2023-06-25 11:56:54
+Type: backup
+[2023-06-25 11:56:55][notice]Start backing up.
+[2023-06-25 11:56:55][notice]server info fcgi:Off max execution time: 300 wp version:6.2.2 php version:8.2.0 db version:10.4.27 php ini:safe_mode: memory_limit:256M memory_get_usage:109.49 MB memory_get_peak_usage:109.89 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-06-25 11:56:55][notice]Prepare to backup backup_db files.
+[2023-06-25 11:56:55][notice]Start exporting database.
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_tinvwl_items
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_tinvwl_lists
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_wc_category_lookup
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_wc_reserved_stock
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_woocommerce_shipping_zone_methods
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_woocommerce_shipping_zones
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_wpforms_tasks_meta
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_actionscheduler_claims
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_actionscheduler_groups
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_e_events
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_links
+[2023-06-25 11:56:55][notice]Preparing to dump table wp_nx_stats
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_term_relationships
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_tinvwl_analytics
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_product_attributes_lookup
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_product_download_directories
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_rate_limits
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_tax_rate_classes
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_webhooks
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_attribute_taxonomies
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_log
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_order_items
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_payment_tokens
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_sessions
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_actionscheduler_logs
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_commentmeta
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_nx_entries
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_term_taxonomy
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_termmeta
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_terms
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_usermeta
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_customer_lookup
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_download_log
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_order_coupon_lookup
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_order_tax_lookup
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_api_keys
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_order_itemmeta
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_payment_tokenmeta
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_shipping_zone_locations
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_tax_rate_locations
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_users
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_admin_notes
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_order_stats
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_admin_note_actions
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_order_product_lookup
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_downloadable_product_permissions
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_woocommerce_tax_rates
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_comments
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_nx_posts
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_wc_product_meta_lookup
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_actionscheduler_actions
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_posts
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_postmeta
+[2023-06-25 11:56:56][notice]Preparing to dump table wp_options
+[2023-06-25 11:56:56][notice]Exporting database finished.
+[2023-06-25 11:56:56][notice]Start compressing database
+[2023-06-25 11:56:56][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_db.sql
+[2023-06-25 11:56:56][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_db.part001.zip, filesize: 3.82 MB
+[2023-06-25 11:56:56][notice]Compressing database completed
+[2023-06-25 11:56:56][notice]Backing up backup_db completed.
+[2023-06-25 11:56:56][notice]Prepare to backup backup_themes files.
+[2023-06-25 11:56:56][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_themes.part001.zip index:679
+[2023-06-25 11:57:00][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_themes.part001.zip success. index:679 file size:17.57 MB
+[2023-06-25 11:57:00][notice]Backing up backup_themes completed.
+[2023-06-25 11:57:00][notice]Prepare to backup backup_plugin files.
+[2023-06-25 11:57:03][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_plugin.part001.zip index:8397
+[2023-06-25 11:57:59][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_plugin.part001.zip success. index:8397 file size:112.94 MB
+[2023-06-25 11:57:59][notice]Backing up backup_plugin completed.
+[2023-06-25 11:57:59][notice]Prepare to backup backup_uploads files.
+[2023-06-25 11:58:00][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_uploads.part001.zip index:61
+[2023-06-25 11:58:00][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_uploads.part001.zip success. index:61 file size:7.12 MB
+[2023-06-25 11:58:00][notice]Backing up backup_uploads completed.
+[2023-06-25 11:58:00][notice]Prepare to backup backup_content files.
+[2023-06-25 11:58:00][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_content.part001.zip index:365
+[2023-06-25 11:58:01][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_content.part001.zip success. index:365 file size:6.18 MB
+[2023-06-25 11:58:01][notice]Backing up backup_content completed.
+[2023-06-25 11:58:01][notice]Prepare to backup backup_core files.
+[2023-06-25 11:58:02][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_core.part001.zip index:2560
+[2023-06-25 11:58:26][notice]Compressing zip file:localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_core.part001.zip success. index:2560 file size:50.63 MB
+[2023-06-25 11:58:26][notice]Backing up backup_core completed.
+[2023-06-25 11:58:26][notice]Prepare to backup backup_merge files.
+[2023-06-25 11:58:26][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_db.zip
+[2023-06-25 11:58:26][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.part001.zip, filesize: 3.82 MB
+[2023-06-25 11:58:26][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_themes.zip
+[2023-06-25 11:58:26][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.part001.zip, filesize: 8.55 MB
+[2023-06-25 11:58:26][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_plugin.zip
+[2023-06-25 11:58:30][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.part001.zip, filesize: 39.90 MB
+[2023-06-25 11:58:30][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_uploads.zip
+[2023-06-25 11:58:30][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.part001.zip, filesize: 47.02 MB
+[2023-06-25 11:58:30][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_content.zip
+[2023-06-25 11:58:30][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.part001.zip, filesize: 53.20 MB
+[2023-06-25 11:58:30][notice]Prepare to zip file. file: localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_core.zip
+[2023-06-25 11:58:32][notice]Adding zip files completed.localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.part001.zip, filesize: 64.62 MB
+[2023-06-25 11:58:32][notice]Backing up backup_merge completed.
+[2023-06-25 11:58:32][notice]files: ["C:\/xampp\/htdocs\/naturesbounty\/wp-content\/wpvividbackups\/localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip"]
+[2023-06-25 11:58:32][notice]Check upload folder wpvivid_backup
+[2023-06-25 11:58:34][notice]Start uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip
+[2023-06-25 11:58:34][notice]Check if the server already has the same name file.
+[2023-06-25 11:58:34][notice]Initiate a resumable upload session.
+[2023-06-25 11:58:44][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 1.00 MB speed:104.86kb/s
+[2023-06-25 11:58:44][notice]progress:1048576.
+[2023-06-25 11:58:52][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 2.00 MB speed:131.07kb/s
+[2023-06-25 11:58:52][notice]progress:2097152.
+[2023-06-25 11:59:00][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 3.00 MB speed:131.07kb/s
+[2023-06-25 11:59:00][notice]progress:3145728.
+[2023-06-25 11:59:08][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 4.00 MB speed:131.07kb/s
+[2023-06-25 11:59:08][notice]progress:4194304.
+[2023-06-25 11:59:16][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 5.00 MB speed:131.07kb/s
+[2023-06-25 11:59:16][notice]progress:5242880.
+[2023-06-25 11:59:24][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 6.00 MB speed:131.07kb/s
+[2023-06-25 11:59:24][notice]progress:6291456.
+[2023-06-25 11:59:32][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 7.00 MB speed:131.07kb/s
+[2023-06-25 11:59:32][notice]progress:7340032.
+[2023-06-25 11:59:40][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 8.00 MB speed:131.07kb/s
+[2023-06-25 11:59:40][notice]progress:8388608.
+[2023-06-25 11:59:49][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 9.00 MB speed:116.51kb/s
+[2023-06-25 11:59:49][notice]progress:9437184.
+[2023-06-25 11:59:57][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 10.00 MB speed:131.07kb/s
+[2023-06-25 11:59:57][notice]progress:10485760.
+[2023-06-25 12:00:06][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 11.00 MB speed:116.51kb/s
+[2023-06-25 12:00:06][notice]progress:11534336.
+[2023-06-25 12:00:14][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 12.00 MB speed:131.07kb/s
+[2023-06-25 12:00:14][notice]progress:12582912.
+[2023-06-25 12:00:22][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 13.00 MB speed:131.07kb/s
+[2023-06-25 12:00:22][notice]progress:13631488.
+[2023-06-25 12:00:30][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 14.00 MB speed:131.07kb/s
+[2023-06-25 12:00:30][notice]progress:14680064.
+[2023-06-25 12:00:38][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 15.00 MB speed:131.07kb/s
+[2023-06-25 12:00:38][notice]progress:15728640.
+[2023-06-25 12:00:46][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 16.00 MB speed:131.07kb/s
+[2023-06-25 12:00:46][notice]progress:16777216.
+[2023-06-25 12:00:56][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 17.00 MB speed:104.86kb/s
+[2023-06-25 12:00:56][notice]progress:17825792.
+[2023-06-25 12:01:05][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 18.00 MB speed:116.51kb/s
+[2023-06-25 12:01:05][notice]progress:18874368.
+[2023-06-25 12:01:13][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 19.00 MB speed:131.07kb/s
+[2023-06-25 12:01:13][notice]progress:19922944.
+[2023-06-25 12:01:22][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 20.00 MB speed:116.51kb/s
+[2023-06-25 12:01:22][notice]progress:20971520.
+[2023-06-25 12:01:30][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 21.00 MB speed:131.07kb/s
+[2023-06-25 12:01:30][notice]progress:22020096.
+[2023-06-25 12:01:38][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 22.00 MB speed:131.07kb/s
+[2023-06-25 12:01:38][notice]progress:23068672.
+[2023-06-25 12:01:47][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 23.00 MB speed:116.51kb/s
+[2023-06-25 12:01:47][notice]progress:24117248.
+[2023-06-25 12:01:56][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 24.00 MB speed:116.51kb/s
+[2023-06-25 12:01:56][notice]progress:25165824.
+[2023-06-25 12:02:04][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 25.00 MB speed:131.07kb/s
+[2023-06-25 12:02:04][notice]progress:26214400.
+[2023-06-25 12:02:12][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 26.00 MB speed:131.07kb/s
+[2023-06-25 12:02:12][notice]progress:27262976.
+[2023-06-25 12:02:20][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 27.00 MB speed:131.07kb/s
+[2023-06-25 12:02:20][notice]progress:28311552.
+[2023-06-25 12:02:28][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 28.00 MB speed:131.07kb/s
+[2023-06-25 12:02:28][notice]progress:29360128.
+[2023-06-25 12:02:37][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 29.00 MB speed:116.51kb/s
+[2023-06-25 12:02:37][notice]progress:30408704.
+[2023-06-25 12:02:47][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 30.00 MB speed:104.86kb/s
+[2023-06-25 12:02:47][notice]progress:31457280.
+[2023-06-25 12:02:55][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 31.00 MB speed:131.07kb/s
+[2023-06-25 12:02:55][notice]progress:32505856.
+[2023-06-25 12:03:06][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 32.00 MB speed:95.33kb/s
+[2023-06-25 12:03:06][notice]progress:33554432.
+[2023-06-25 12:03:17][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 33.00 MB speed:95.33kb/s
+[2023-06-25 12:03:17][notice]progress:34603008.
+[2023-06-25 12:03:26][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 34.00 MB speed:116.51kb/s
+[2023-06-25 12:03:26][notice]progress:35651584.
+[2023-06-25 12:03:35][error]Task timed out.
+[2023-06-25 12:03:48][notice]Start backing up.
+[2023-06-25 12:03:48][notice]server info fcgi:Off max execution time: 300 wp version:6.2.2 php version:8.2.0 db version:10.4.27 php ini:safe_mode: memory_limit:256M memory_get_usage:96.87 MB memory_get_peak_usage:97.25 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2023-06-25 12:03:48][notice]files: ["C:\/xampp\/htdocs\/naturesbounty\/wp-content\/wpvividbackups\/localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip"]
+[2023-06-25 12:03:48][notice]Check upload folder wpvivid_backup
+[2023-06-25 12:03:49][notice]Start uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip
+[2023-06-25 12:03:49][notice]Check if the server already has the same name file.
+[2023-06-25 12:03:49][notice]Resume uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip.
+[2023-06-25 12:03:49][notice]resumeUri:https://www.googleapis.com/upload/drive/v3/files?uploadType=resumable&upload_id=ADPycdvOH2LOSejQvKyXn2bnqflSp3U7Y_jDaVDmz0yGUQJ5EYzCsbZ-rFzUdetSFJlNK8eP-22IzeVmtxGAO2ohcpPLYQ.
+[2023-06-25 12:03:49][notice]progress:35651584.
+[2023-06-25 12:03:57][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 35.00 MB speed:4587.52kb/s
+[2023-06-25 12:03:57][notice]progress:36700160.
+[2023-06-25 12:04:05][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 36.00 MB speed:131.07kb/s
+[2023-06-25 12:04:05][notice]progress:37748736.
+[2023-06-25 12:04:16][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 37.00 MB speed:95.33kb/s
+[2023-06-25 12:04:16][notice]progress:38797312.
+[2023-06-25 12:04:26][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 38.00 MB speed:104.86kb/s
+[2023-06-25 12:04:26][notice]progress:39845888.
+[2023-06-25 12:04:34][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 39.00 MB speed:131.07kb/s
+[2023-06-25 12:04:34][notice]progress:40894464.
+[2023-06-25 12:04:43][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 40.00 MB speed:116.51kb/s
+[2023-06-25 12:04:43][notice]progress:41943040.
+[2023-06-25 12:04:51][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 41.00 MB speed:131.07kb/s
+[2023-06-25 12:04:51][notice]progress:42991616.
+[2023-06-25 12:05:00][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 42.00 MB speed:116.51kb/s
+[2023-06-25 12:05:00][notice]progress:44040192.
+[2023-06-25 12:05:09][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 43.00 MB speed:116.51kb/s
+[2023-06-25 12:05:09][notice]progress:45088768.
+[2023-06-25 12:05:19][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 44.00 MB speed:104.86kb/s
+[2023-06-25 12:05:19][notice]progress:46137344.
+[2023-06-25 12:05:28][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 45.00 MB speed:116.51kb/s
+[2023-06-25 12:05:28][notice]progress:47185920.
+[2023-06-25 12:05:36][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 46.00 MB speed:131.07kb/s
+[2023-06-25 12:05:36][notice]progress:48234496.
+[2023-06-25 12:05:46][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 47.00 MB speed:104.86kb/s
+[2023-06-25 12:05:46][notice]progress:49283072.
+[2023-06-25 12:05:59][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 48.00 MB speed:80.66kb/s
+[2023-06-25 12:05:59][notice]progress:50331648.
+[2023-06-25 12:06:11][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 49.00 MB speed:87.38kb/s
+[2023-06-25 12:06:11][notice]progress:51380224.
+[2023-06-25 12:06:22][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 50.00 MB speed:95.33kb/s
+[2023-06-25 12:06:22][notice]progress:52428800.
+[2023-06-25 12:06:34][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 51.00 MB speed:87.38kb/s
+[2023-06-25 12:06:34][notice]progress:53477376.
+[2023-06-25 12:06:42][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 52.00 MB speed:131.07kb/s
+[2023-06-25 12:06:42][notice]progress:54525952.
+[2023-06-25 12:06:50][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 53.00 MB speed:131.07kb/s
+[2023-06-25 12:06:50][notice]progress:55574528.
+[2023-06-25 12:06:57][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 54.00 MB speed:149.8kb/s
+[2023-06-25 12:06:57][notice]progress:56623104.
+[2023-06-25 12:07:05][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 55.00 MB speed:131.07kb/s
+[2023-06-25 12:07:05][notice]progress:57671680.
+[2023-06-25 12:07:12][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 56.00 MB speed:149.8kb/s
+[2023-06-25 12:07:12][notice]progress:58720256.
+[2023-06-25 12:07:20][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 57.00 MB speed:131.07kb/s
+[2023-06-25 12:07:20][notice]progress:59768832.
+[2023-06-25 12:07:29][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 58.00 MB speed:116.51kb/s
+[2023-06-25 12:07:29][notice]progress:60817408.
+[2023-06-25 12:07:37][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 59.00 MB speed:131.07kb/s
+[2023-06-25 12:07:37][notice]progress:61865984.
+[2023-06-25 12:07:45][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 60.00 MB speed:131.07kb/s
+[2023-06-25 12:07:45][notice]progress:62914560.
+[2023-06-25 12:07:53][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 61.00 MB speed:131.07kb/s
+[2023-06-25 12:07:53][notice]progress:63963136.
+[2023-06-25 12:08:02][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 62.00 MB speed:116.51kb/s
+[2023-06-25 12:08:02][notice]progress:65011712.
+[2023-06-25 12:08:10][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 63.00 MB speed:131.07kb/s
+[2023-06-25 12:08:10][notice]progress:66060288.
+[2023-06-25 12:08:17][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 64.00 MB speed:149.8kb/s
+[2023-06-25 12:08:17][notice]progress:67108864.
+[2023-06-25 12:08:24][notice]Uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip Total size: 64.62 MB Uploaded: 64.62 MB speed:93.56kb/s
+[2023-06-25 12:08:24][notice]progress:67108864.
+[2023-06-25 12:08:24][notice]Finished uploading localhost_naturesbounty_wpvivid-64982b8673692_2023-06-25-11-56_backup_all.zip
+[2023-06-25 12:08:24][notice]Finish upload to googledrive
